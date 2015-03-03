@@ -1,0 +1,25 @@
+{
+  "name": "yogametime",
+  "version": "0.0.1",
+  "description": "sends yo at game time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cartothemax/yogametime"
+  },
+  "keywords": [
+    "yo",
+    "game",
+    "time",
+    "node"
+  ],
+  "author": "Andrew Schutt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cartothemax/yogametime/issues"
+  },
+  "homepage": "https://github.com/cartothemax/yogametime"
+}
